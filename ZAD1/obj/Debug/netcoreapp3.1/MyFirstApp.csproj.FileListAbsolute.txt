@@ -1,0 +1,11 @@
+/home/asd/Documents/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp
+/home/asd/Documents/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.deps.json
+/home/asd/Documents/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.runtimeconfig.json
+/home/asd/Documents/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.runtimeconfig.dev.json
+/home/asd/Documents/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.dll
+/home/asd/Documents/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.pdb
+/home/asd/Documents/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.csprojAssemblyReference.cache
+/home/asd/Documents/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.AssemblyInfoInputs.cache
+/home/asd/Documents/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.AssemblyInfo.cs
+/home/asd/Documents/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.dll
+/home/asd/Documents/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.pdb
